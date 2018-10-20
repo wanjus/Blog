@@ -8,4 +8,4 @@ Meistens sind sie aber verschwunden, obwohl sie gerade noch da waren. :-(
 Wer hilft ?
 Git ? 
 Git!
-Nach einer Zeit der Passivität, kommt nun endlich
+Nach einer Zeit der Passivität, kommt nun endlich was für dich.
